@@ -1,6 +1,6 @@
-# Machine Learning Group Project Proposal  
+## Machine Learning Group Project Proposal  
 
-## Monitoring Iberian Plant Diversity through a Collecting-based Mobile Application 
+# Monitoring Iberian Plant Diversity through a Collecting-based Mobile Application 
 
 ### Image Segmentation and Classification problem 
 
