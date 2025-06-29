@@ -9,4 +9,4 @@ Both models' deployment on HappyFace is in the following link, as well as the tr
 
 The app we invision will not only efficiently run our models, but also have many interactive features to maintain our user interest and encourage more plant species data collection.
 
-The general app mockup:[TreeID Mockup](https://www.figma.com/proto/1MRog059spgtR5YowEPqV0/Tree-Identification-App?node-id=43-651&t=vg3GLL8wQU89YUPa-1&starting-point-node-id=43%3A651)
+The general app mockup: [TreeID Mockup](https://www.figma.com/proto/1MRog059spgtR5YowEPqV0/Tree-Identification-App?node-id=43-651&t=vg3GLL8wQU89YUPa-1&starting-point-node-id=43%3A651) (If this link doesn't work consult the app_mockup.md file)
