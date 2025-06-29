@@ -5,7 +5,7 @@ In this project we intent to set up the groundworks for the development on a mob
 
 Through trial and error, two machine learning methods were developed to achieve the goal of our app; one with the pre-existing foundation model ResNet and one without.
 
-Both models' deployment on HappyFace is in the following link, as well as the trending function of our app: [TreeID Models](https://huggingface.co/Diogo-Janice-Rafael)
+Both models' deployment on HuggingFace is in the following link, as well as the trending function of our app: [TreeID Models](https://huggingface.co/Diogo-Janice-Rafael)
 
 The app we invision will not only efficiently run our models, but also have many interactive features to maintain our user interest and encourage more plant species data collection.
 
